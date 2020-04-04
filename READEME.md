@@ -1,0 +1,1 @@
+This is a regression project to practice learning how to do a linear model ,evaluating and visualizing
